@@ -44,7 +44,7 @@ public class TikTokDownloader {
             dir.mkdirs();
         }
 
-        for (int i = 855; i < urls.size(); i++) {
+        for (int i = 0; i < urls.size(); i++) {
             String url = urls.get(i);
             System.out.println("Downloading: " + url);
 
