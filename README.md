@@ -1,5 +1,5 @@
 ## TikTokDownloader
-An open-source utility written in Java to download your TikTok posts using requested data text files now that it's banned in the United States.
+An open-source CLI utility written in Java to download your TikTok posts using requested data text files now that it's banned in the United States.
 
 # Step 1.
 [Request your data from TikTok](https://support.tiktok.com/en/account-and-privacy/personalized-ads-and-data/requesting-your-data) in .txt format.
